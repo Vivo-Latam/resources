@@ -12,7 +12,7 @@ Visit our website at [vivolatam.com](https://vivolatam.com) to explore the lates
 
 - **Aggregated Listings**: We gather the best property listings from across Central America, making Vivo Latam the go-to platform for real estate information.
 - **Save Your Favorites**: Users can save homes they are interested in, creating personalized collections for easy access.
-- **Zestimate-Like Feature**: Vivo Latam provides home value estimates, offering buyers and sellers key insights into property values.
+- **Home Estimates**: Vivo Latam provides home value estimates, offering buyers and sellers key insights into property values.
 - **Buyer Leads for Agents**: We connect homebuyers with agents through our lead generation service, creating new opportunities for real estate professionals.
 
 ## Our Vision
