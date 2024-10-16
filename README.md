@@ -31,7 +31,7 @@ In the future, we plan to introduce a **Vivo Direct Listing** feature, allowing 
 
 ## Contact Us
 
-If you're interested in learning more, visit our website at [vivolatam.com](https://vivolatam.com) or contact us at **info@vivolatam.com**. You can also follow us on social media to stay updated on the latest listings and real estate news in Central America.
+If you're interested in learning more, visit our website at [vivolatam.com](https://vivolatam.com) or contact us at **hola@vivolatam.com**. You can also follow us on social media to stay updated on the latest listings and real estate news in Central America.
 
 ---
 
