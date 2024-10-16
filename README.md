@@ -1,0 +1,2 @@
+# resources
+Vivo Latam resources
