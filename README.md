@@ -14,11 +14,10 @@ Visit our website at [vivolatam.com](https://vivolatam.com) to explore the lates
 - **Save Your Favorites**: Users can save homes they are interested in, creating personalized collections for easy access.
 - **Zestimate-Like Feature**: Vivo Latam provides home value estimates, offering buyers and sellers key insights into property values.
 - **Buyer Leads for Agents**: We connect homebuyers with agents through our lead generation service, creating new opportunities for real estate professionals.
-- **Escrow Services**: To ensure a smooth transaction, we offer escrow services, giving buyers and sellers peace of mind.
 
 ## Our Vision
 
-We aim to create the premier digital real estate platform in Central America by blending the best technology with a deep understanding of the regional market. Starting in **El Salvador**, we will expand to **Guatemala** and **Costa Rica**, continuing to enhance our services with advanced AI, data-driven insights, and strong relationships with real estate developers.
+We aim to create the premier digital real estate platform in Central America by blending the best technology with a deep understanding of the regional market.
 
 ## Why Choose Vivo Latam?
 
