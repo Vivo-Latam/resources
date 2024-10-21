@@ -6,7 +6,7 @@
 
 ## Website
 
-Visit our website at [vivolatam.com](https://vivolatam.com) to explore the latest listings, save homes you're interested in, and get property value estimates. Our platform is designed with advanced technology, user-friendly features, and powerful data tools to give you a superior property search experience.
+Visit our website at [vivolatam.com](https://www.vivolatam.com) to explore the latest listings, save homes you're interested in, and get property value estimates. Our platform is designed with advanced technology, user-friendly features, and powerful data tools to give you a superior property search experience.
 
 ## Features
 
